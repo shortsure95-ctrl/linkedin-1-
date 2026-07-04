@@ -1,0 +1,22 @@
+{
+  "name": "linkedin-public-profile-auto-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Safe LinkedIn public profile accessibility checker for Vercel. No password, cookie, token, or login required.",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "linkedin",
+    "profile-checker",
+    "vercel"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
